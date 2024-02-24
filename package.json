@@ -1,0 +1,15 @@
+{
+  "name": "nuoguess",
+  "version": "1.0.0",
+  "description": "bot for nuoguess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "ethers": "^6.11.1"
+  }
+}
